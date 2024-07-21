@@ -1,4 +1,5 @@
+# github pages
 ---
-title: Welcome to my blog
+Hey Gits: Welcome to my blog
 ---
 
